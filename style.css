@@ -1,0 +1,20 @@
+h1 {
+  background-color: purple;
+  color: white;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.woopandapage {
+  background-color: yellow;
+  color: green;
+}
